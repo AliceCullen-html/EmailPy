@@ -51,7 +51,7 @@ Depois de ter definido o objeto e o IF agora só devemos preencher os seguintes 
   ![image](https://user-images.githubusercontent.com/77951123/183558669-5a4b2311-4ea4-4631-9b58-ec8338dcf6f1.png)
   
  <hr>
-<b>mailHTMLBody<b> É onde a mágica acontece aqui definimos a mensagem que vamos enviar e a melhor forma de fazer isso é utilizando o HTML como no exemplo abaixo: 
+<b>mailHTMLBody:<b> É onde a mágica acontece aqui definimos a mensagem que vamos enviar e a melhor forma de fazer isso é utilizando o HTML como no exemplo abaixo: 
 
 ![image](https://user-images.githubusercontent.com/77951123/183558888-9095567a-4587-44ef-887a-b78b69eed5aa.png)
 
