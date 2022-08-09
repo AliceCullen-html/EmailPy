@@ -50,23 +50,18 @@ Depois de ter definido o objeto e o IF agora só devemos preencher os seguintes 
   
   ![image](https://user-images.githubusercontent.com/77951123/183558669-5a4b2311-4ea4-4631-9b58-ec8338dcf6f1.png)
   
-  
  <hr>
-  
-  <b>mailHTMLBody<b> É onde a mágica acontece aqui definimos a mensagem que vamos enviar e a melhor forma de fazer isso é utilizando o HTML como no exemplo abaixo: 
-    ![image](https://user-images.githubusercontent.com/77951123/183558888-9095567a-4587-44ef-887a-b78b69eed5aa.png)
+<b>mailHTMLBody<b> É onde a mágica acontece aqui definimos a mensagem que vamos enviar e a melhor forma de fazer isso é utilizando o HTML como no exemplo abaixo: 
 
-    Mas relaxa vc pode usar o <b>mail.Body<b> caso ainda não saiba muito sobre HTML 
-    
-    
+![image](https://user-images.githubusercontent.com/77951123/183558888-9095567a-4587-44ef-887a-b78b69eed5aa.png)
+
+Mas relaxa vc pode usar o <b>mail.Body<b> caso ainda não saiba muito sobre HTML 
     <h2>Enviando Anexo</h2>
     Para enviar anexo precisamos apenas definir uma váriavel com o caminho do arquivo;
     ![image](https://user-images.githubusercontent.com/77951123/183559062-9b40d121-4036-4f95-b3a8-734b14d3bd7f.png)
 
-    
-    <h2>E enviar</h2>
-    
-    E para finalizar;
+     <h2>E enviar</h2>
+     E para finalizar;
     
     ![image](https://user-images.githubusercontent.com/77951123/183559150-1fdc3612-bea1-4f3c-bb23-906e2b4145bf.png)
     
