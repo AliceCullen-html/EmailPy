@@ -32,12 +32,18 @@ Caso tenha várias contas logadas no seu outlook mas você quer apenas utilizar 
 
 ![image](https://user-images.githubusercontent.com/77951123/183557804-ec8c192f-5c77-4548-af65-433cbe2a382c.png)
 
+
 <H2>Explicando cada campo para edição</h2>
 
 <b>mail.to<b> é onde você deve colocar a sua lista de email para envio;
   ![image](https://user-images.githubusercontent.com/77951123/183558068-d3144bea-380d-4861-aa30-16932ecfbf6f.png)
 
+  <hr>
  
+<b>mail.Subject<b> é onde devemos colocar o assunto;
+  
+ ![image](https://user-images.githubusercontent.com/77951123/183558317-c4b3fa73-b2a2-4f5c-85f7-e129d8b5b394.png)
+
 
 
 
