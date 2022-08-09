@@ -23,4 +23,10 @@ Dentro do arquivo vamos começar importando a biblioteca pywin32 que te permite 
 Agora é só definir que objeto vamos utilizar que no caso é o OUTLOOK e logo depois precisamos definir uma váriavel vazia:
 ![image](https://user-images.githubusercontent.com/77951123/183556782-fed02139-c099-4b65-9b6c-814012318b29.png)
 
+<h2>Lidando com várias contas dentro do outlook</h2>
+Caso tenha várias contas logadas no seu outlook mas você quer apenas utilizar uma para enviar seus email precisamos criar uma estrutura de FOR: 
+
+![image](https://user-images.githubusercontent.com/77951123/183557633-20f9f0f5-1c53-4b07-bdbb-dbcfc883e579.png)
+
+
 
