@@ -28,5 +28,22 @@ Caso tenha várias contas logadas no seu outlook mas você quer apenas utilizar 
 
 ![image](https://user-images.githubusercontent.com/77951123/183557633-20f9f0f5-1c53-4b07-bdbb-dbcfc883e579.png)
 
+<h2>E agora é só criar o objeto e definir um IF</h2>
+
+![image](https://user-images.githubusercontent.com/77951123/183557804-ec8c192f-5c77-4548-af65-433cbe2a382c.png)
+
+<H2>Explicando cada campo para edição</h2>
+
+<b>mail.to<b> é onde você deve colocar a sua lista de email para envio;
+  ![image](https://user-images.githubusercontent.com/77951123/183558068-d3144bea-380d-4861-aa30-16932ecfbf6f.png)
+
+ 
+
+
+
+
+
+
+
 
 
