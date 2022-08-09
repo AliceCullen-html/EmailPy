@@ -36,7 +36,7 @@ mail.HTMLBody = '<h1> Corpo do Email em HTML </h1>'
 '<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lacinia, enim ut egestas pulvinar, lorem nisi consectetur leo, eget euismod ante leo ut dui. Nunc at tempor erat, a imperdiet nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc ex nisl, congue a ante sit amet, sagittis euismod purus. Morbi quam ligula, iaculis sed tincidunt eget, vehicula eget erat. Proin neque felis, aliquet sed odio id, eleifend efficitur velit. Nulla id lacus dictum neque bibendum ullamcorper ut eu tortor. Donec mollis risus nunc, eu scelerisque enim suscipit a. </p>'
 
 
-# Anexos (pode colocar quantos quiser):
+# Anexos (pode colocar quantos quiser =D):
 attachment = r'C:\Users\vulco\Downloads\Cvnew1.pdf'
 mail.Attachments.Add(attachment)
 
