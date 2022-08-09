@@ -70,10 +70,7 @@ Depois de ter definido o objeto e o IF agora só devemos preencher os seguintes 
     
     ![image](https://user-images.githubusercontent.com/77951123/183559150-1fdc3612-bea1-4f3c-bb23-906e2b4145bf.png)
     
-    
-    <hr>
-    
-    <h2>Obrigado por ter chegado até aqui! Caso eu tenha te ajudado de alguma forma me siga =D Qualquer dúvida só enviar pelos meios de comunicação que desponibilizo no meu perfil</h2>
+   
 
     
     
