@@ -17,3 +17,9 @@ Dentro do arquivo vamos começar importando a biblioteca pywin32 que te permite 
 ![image](https://user-images.githubusercontent.com/77951123/183556391-15cb7416-e746-4ed0-8b70-85812edf37cf.png)
 
 
+<h2>Definindo os objetos</h2>
+
+Agora é só definir que objeto vamos utilizar que no caso é o OUTLOOK e logo depois precisamos definir uma váriavel vazia:
+![image](https://user-images.githubusercontent.com/77951123/183556782-fed02139-c099-4b65-9b6c-814012318b29.png)
+
+
