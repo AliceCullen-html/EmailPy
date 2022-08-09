@@ -14,7 +14,8 @@ Depois vamos criar uma pasta e dentro dela um arquivo .py com o nome da sua pref
 
 Dentro do arquivo vamos começar importando a biblioteca pywin32 que te permite automatizar uma série de coisas no Windows, então isso pode te facilitar bastante caso utilize o Windows.
 
-![image](https://user-images.githubusercontent.com/77951123/183556391-15cb7416-e746-4ed0-8b70-85812edf37cf.png)
+![image](https://user-images.githubusercontent.com/77951123/183556896-8713af4e-b29f-4955-97f7-7d73be34838e.png)
+
 
 
 <h2>Definindo os objetos</h2>
