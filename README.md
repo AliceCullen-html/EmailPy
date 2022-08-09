@@ -35,18 +35,18 @@ Caso tenha várias contas logadas no seu outlook mas você quer apenas utilizar 
 <H2>Explicando cada campo para edição</h2>
 Depois de ter definido o objeto e o IF agora só devemos preencher os seguintes itens;
 
-<b>mail.to<b> Aqui deve-se colocar a sua lista de email para envio;
+<b>mail.to:<b> Aqui deve-se colocar a sua lista de email para envio;
   ![image](https://user-images.githubusercontent.com/77951123/183558068-d3144bea-380d-4861-aa30-16932ecfbf6f.png)
 
   <hr>
  
-<b>mail.Subject<b> é onde devemos colocar o assunto;
+<b>mail.Subject:<b> é onde devemos colocar o assunto;
   
  ![image](https://user-images.githubusercontent.com/77951123/183558317-c4b3fa73-b2a2-4f5c-85f7-e129d8b5b394.png)
   
    <hr>
   
-<b>mail.CC e mail.BCC<b> Envia uma cópia do email e BCC envia uma cópia oculta do mesmo;
+<b>mail.CC e mail.BCC:<b> Envia uma cópia do email e BCC envia uma cópia oculta do mesmo;
   
   ![image](https://user-images.githubusercontent.com/77951123/183558669-5a4b2311-4ea4-4631-9b58-ec8338dcf6f1.png)
   
@@ -63,7 +63,6 @@ Depois de ter definido o objeto e o IF agora só devemos preencher os seguintes 
     Para enviar anexo precisamos apenas definir uma váriavel com o caminho do arquivo;
     ![image](https://user-images.githubusercontent.com/77951123/183559062-9b40d121-4036-4f95-b3a8-734b14d3bd7f.png)
 
-    
     
     <h2>E enviar</h2>
     
