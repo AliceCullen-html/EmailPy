@@ -20,6 +20,7 @@ Dentro do arquivo vamos começar importando a biblioteca pywin32 que te permite 
 <h2>Definindo os objetos</h2>
 
 Apenas precisamos definir que objeto vamos utilizar que no caso é o OUTLOOK e logo depois precisamos definir uma váriavel vazia:
+
 ![image](https://user-images.githubusercontent.com/77951123/183556782-fed02139-c099-4b65-9b6c-814012318b29.png)
 
 <h2>Lidando com várias contas dentro do outlook</h2>
