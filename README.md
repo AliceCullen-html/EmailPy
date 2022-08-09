@@ -61,6 +61,7 @@ Mas relaxa vc pode usar o <b>mail.Body<b> caso ainda não saiba muito sobre HTML
     ![image](https://user-images.githubusercontent.com/77951123/183559062-9b40d121-4036-4f95-b3a8-734b14d3bd7f.png)
 <h2>E enviar</h2>
 E para finalizar;
+  
 ![image](https://user-images.githubusercontent.com/77951123/183559150-1fdc3612-bea1-4f3c-bb23-906e2b4145bf.png)
     
    
