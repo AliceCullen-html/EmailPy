@@ -17,10 +17,9 @@ Dentro do arquivo vamos começar importando a biblioteca pywin32 que te permite 
 ![image](https://user-images.githubusercontent.com/77951123/183556896-8713af4e-b29f-4955-97f7-7d73be34838e.png)
 
 
-
 <h2>Definindo os objetos</h2>
 
-Agora é só definir que objeto vamos utilizar que no caso é o OUTLOOK e logo depois precisamos definir uma váriavel vazia:
+Apenas precisamos definir que objeto vamos utilizar que no caso é o OUTLOOK e logo depois precisamos definir uma váriavel vazia:
 ![image](https://user-images.githubusercontent.com/77951123/183556782-fed02139-c099-4b65-9b6c-814012318b29.png)
 
 <h2>Lidando com várias contas dentro do outlook</h2>
@@ -35,8 +34,6 @@ Caso tenha várias contas logadas no seu outlook mas você quer apenas utilizar 
 
 <H2>Explicando cada campo para edição</h2>
 Depois de ter definido o objeto e o IF agora só devemos preencher os seguintes itens;
-
-
 
 <b>mail.to<b> Aqui deve-se colocar a sua lista de email para envio;
   ![image](https://user-images.githubusercontent.com/77951123/183558068-d3144bea-380d-4861-aa30-16932ecfbf6f.png)
