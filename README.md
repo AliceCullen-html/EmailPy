@@ -1,4 +1,4 @@
-<h1> Enviando email com python</h1> 
+<h1> Enviando email com python 💻</h1> 
 
 <h2>Iniciando o projeto</h2>
 
