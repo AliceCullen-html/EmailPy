@@ -66,7 +66,8 @@ Mas relaxa vc pode usar o <b>mail.Body<b> caso ainda não saiba muito sobre HTML
   
   <hr>
 
- ## Obrigado por ter chegado até aqui!! Dúvidas ou sugestões: https://www.linkedin.com/in/marcus-cunha-18762718a/
+ ## Obrigado por ter chegado até aqui!! 
+ Dúvidas ou sugestões: https://www.linkedin.com/in/marcus-cunha-18762718a/
    
 
     
