@@ -1,8 +1,6 @@
 
 # Esse caso funciona se o seu OUTLOOK tem várias contas ou apenas uma =D
 
-# Primeiro use o comando
-
 # Primeiro import o win32com.client
 import win32com.client
 
